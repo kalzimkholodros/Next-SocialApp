@@ -40,7 +40,7 @@ This project is a frontend-only implementation of a social media platform, focus
 
 1. **Clone & Install**
 ```bash
-git clone https://github.com/yourusername/smp.git
+git clone https://github.com/kalzimkholodros/Next-SocialApp.git
 cd smp
 npm install
 ```
