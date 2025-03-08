@@ -88,10 +88,6 @@ The project uses a consistent color scheme:
 - [ ] Real-time messaging
 - [ ] Profile customization
 
-## Contributing
-
-Feel free to fork and submit PRs. This is an open-source project aimed at learning and improvement.
-
 ## License
 
 MIT License - feel free to use this project for learning and development.
